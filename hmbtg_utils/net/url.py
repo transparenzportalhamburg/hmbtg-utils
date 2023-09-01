@@ -9,9 +9,7 @@ import cgi
 import posixpath
 
 # TYPING
-import typing
 from typing import Tuple
-from urllib.request import _UrlopenRet
 from http.client import HTTPMessage
 
 try:
