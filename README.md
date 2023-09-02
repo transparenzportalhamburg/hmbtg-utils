@@ -7,7 +7,7 @@ pip install git+https://github.com/transparenzportalhamburg/hmbtg-utils.git
 pip install -r requirements.txt
 ```
 ## Development
-For Development you need in addtion to the installation you need to install the development packages:
+For Development you need in addition to the normal installation the development packages:
 ```shell
 pip install -r requirements_dev.txt
 ```
